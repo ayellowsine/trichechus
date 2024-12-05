@@ -40,3 +40,5 @@ Lorem ipsum
 
 ## Acknowledgements
 Thank you to Jordie Shier, George Tzanetakis, and Kirk McNally for developing the [_Spiegelib_](https://github.com/spiegelib/spiegelib) Automatic Synthesizer Programming (ASP) Library for Python, as well as the documentation and code for their [_FM Sound Match Experiment_](https://spiegelib.github.io/spiegelib/examples/fm_sound_match.html).
+
+Many thanks to [Gabriel Vigliensoni](https://github.com/vigliensoni) for his generosity, expertise, and encouragement throughout every step of the process.
