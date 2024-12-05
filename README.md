@@ -3,7 +3,7 @@ Sound Matching in the Fred's Lab Manatee Spectral Synthesizer
 
 The aim of this project was to explore an interactive machine learning (IML) approach to parameter prediction and sound matching, using the [Fred's Lab Manatee](https://fredslab.net/en/manatee-module.php) spectral synthesizer, released in Summer 2024. 
 
-## Script overviews
+## Script functionality overview
 ### calculate_combinations.py
 Reads a CSV file of parameters and possible values, calculating the total number of possible combinations for distinct synthesizer settings.
 
