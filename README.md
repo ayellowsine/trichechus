@@ -1,7 +1,8 @@
-# trichechus
-Sound Matching in the Fred's Lab Manatee Spectral Synthesizer
+# trichechus - _Sound Matching in the Fred's Lab Manatee_
 
-The aim of this project was to explore an interactive machine learning (IML) approach to parameter prediction and sound matching, using the [Fred's Lab Manatee](https://fredslab.net/en/manatee-module.php) spectral synthesizer, released in Summer 2024. 
+The aim of this project is to explore an interactive machine learning (IML) approach to parameter prediction and sound matching, using the [Fred's Lab Manatee](https://fredslab.net/en/manatee-module.php) spectral synthesizer, released in Summer 2024. 
+
+![Fred's Lab Manatee spectral synthesizer](https://fredslab.net/pictures/normal/manatee5.jpg)
 
 ## Script functionality overview
 ### calculate_combinations.py
